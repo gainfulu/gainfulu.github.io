@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://gainfulu.github.io/a/sitemap.html
+Sitemap: https://gainfulu.github.io/b/sitemap.html
+Sitemap: https://gainfulu.github.io/c/sitemap.html
+Sitemap: https://gainfulu.github.io/d/sitemap.html
